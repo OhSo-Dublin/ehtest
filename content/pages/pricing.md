@@ -23,7 +23,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature1.svg
+          url: /test1/images/abstract-feature1.svg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
@@ -55,7 +55,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/abstract-feature2.svg
+          url: /test1/images/abstract-feature2.svg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
@@ -88,7 +88,7 @@ sections:
           - Feature four
           - Feature five
         image:
-          url: /images/abstract-feature3.svg
+          url: /test1/images/abstract-feature3.svg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
