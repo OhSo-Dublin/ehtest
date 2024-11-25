@@ -11,7 +11,7 @@ const nextConfig = {
     async rewrites() {
         return [
             {
-                source: '/marketing/:path*',
+                source: '/test1/:path*',
                 destination: '/:path*',
             },
         ];
