@@ -5,7 +5,7 @@ const nextConfig = {
     env: {
         stackbitPreview: process.env.STACKBIT_PREVIEW,
     },
-    trailingSlash: true,
+    //trailingSlash: true,
     reactStrictMode: true,
     swcMinify: true
 };
