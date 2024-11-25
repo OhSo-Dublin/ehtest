@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /test1/images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -86,7 +86,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /test1/images/icon1.svg
           styles:
             self:
               borderRadius: x-large
@@ -97,7 +97,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon2.svg
+          url: /test1/images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -122,7 +122,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /test1/images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -170,25 +170,25 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /test1/images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /test1/images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /test1/images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /test1/images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /test1/images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /test1/images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
+      - url: /test1/images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
@@ -243,7 +243,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: /test1/images/placeholder-video.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -293,7 +293,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: /test1/images/placeholder-video.mp4
       autoplay: true
       loop: true
       muted: true
@@ -342,7 +342,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /test1/images/hero2.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
@@ -377,7 +377,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /test1/images/hero3.svg
       altText: Dope design preview
       type: ImageBlock
     badge:
@@ -414,7 +414,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /test1/images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
@@ -443,7 +443,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /test1/images/person-placeholder-light.png
           altText: John Doe
           styles:
             self:
@@ -472,7 +472,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /test1/images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
@@ -502,7 +502,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /test1/images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
@@ -531,7 +531,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /test1/images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
@@ -560,7 +560,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/img-placeholder-dark.png
+          url: /test1/images/img-placeholder-dark.png
           altText: Jane Doe
           styles:
             self:
@@ -603,7 +603,7 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /test1/images/abstract-feature1.svg
           altText: Placeholder Image
           styles:
             self:
@@ -626,7 +626,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /test1/images/abstract-feature2.svg
           altText: Placeholder image
           styles:
             self:
@@ -649,7 +649,7 @@ sections:
         text: |
           Learn from the tutorial and build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /test1/images/abstract-feature1.svg
           altText: Placeholder image
           styles:
             self:

@@ -46,7 +46,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /test1/images/abstract-background.svg
   - title:
       text: Meet the team
       color: text-dark
