@@ -7,7 +7,8 @@ const nextConfig = {
     },
     //trailingSlash: true,
     reactStrictMode: true,
-    swcMinify: true
+    swcMinify: true,
+    assetPrefix: '/test1', // Prefix for static assets
 };
 
 module.exports = nextConfig;
