@@ -7,15 +7,7 @@ const nextConfig = {
     },
     trailingSlash: true,
     reactStrictMode: true,
-    swcMinify: true,
-    async rewrites() {
-        return [
-            {
-                source: '/test1/:path*',
-                destination: '/:path*',
-            },
-        ];
-    },
+    swcMinify: true
 };
 
 module.exports = nextConfig;
