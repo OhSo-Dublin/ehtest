@@ -7,8 +7,7 @@ const nextConfig = {
     },
     //trailingSlash: true,
     reactStrictMode: true,
-    swcMinify: true,
-    basePath: '/test1'
+    swcMinify: true
 };
 
 module.exports = nextConfig;
