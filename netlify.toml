@@ -4,7 +4,7 @@
   functions = ".netlify/functions"
 
 [[redirects]]
-  from = "/marketing/*"
+  from = "/test1/*"
   to = "/:splat"
   status = 200
   
