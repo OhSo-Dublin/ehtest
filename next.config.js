@@ -8,7 +8,14 @@ const nextConfig = {
     trailingSlash: true,
     reactStrictMode: true,
     swcMinify: true,
-    basePath: '/marketing', // Add this line to serve the app under /marketing
+    async rewrites() {
+        return [
+            {
+                source: '/marketing/:path*',
+                destination: '/:path*',
+            },
+        ];
+    },
 };
 
 module.exports = nextConfig;
