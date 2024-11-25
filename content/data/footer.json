@@ -19,7 +19,7 @@
             },
             {
                 "label": "Pricing",
-                "url": "/pricing",
+                "url": "/test1/pricing",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -42,7 +42,7 @@
             {
                 "label": "Careers",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "/test1/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -50,7 +50,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "/test1/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

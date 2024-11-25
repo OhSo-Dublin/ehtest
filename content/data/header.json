@@ -4,7 +4,9 @@
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -12,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Pricing",
-            "url": "/pricing",
+            "url": "/test1/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -21,7 +23,7 @@
         {
             "label": "Blog",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/test1/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -30,7 +32,7 @@
         {
             "label": "Careers",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/test1/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

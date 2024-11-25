@@ -21,7 +21,7 @@
           {
             "label": "Blog",
             "altText": "",
-            "url": "/blog",
+            "url": "/test1/blog",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",

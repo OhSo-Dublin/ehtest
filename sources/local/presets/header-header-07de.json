@@ -23,7 +23,7 @@
                     {
                         "label": "Pricing",
                         "altText": null,
-                        "url": "/pricing",
+                        "url": "/test1/pricing",
                         "showIcon": null,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -34,7 +34,7 @@
                     {
                         "label": "Blog",
                         "altText": "Blog",
-                        "url": "/blog",
+                        "url": "/test1/blog",
                         "showIcon": null,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -45,7 +45,7 @@
                     {
                         "label": "Careers",
                         "altText": "Careers page",
-                        "url": "/careers",
+                        "url": "/test1/careers",
                         "showIcon": null,
                         "icon": "arrowRight",
                         "iconPosition": "right",

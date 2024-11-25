@@ -21,7 +21,7 @@
           {
             "label": "Pricing",
             "altText": "",
-            "url": "/pricing",
+            "url": "/test1/pricing",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",

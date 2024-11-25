@@ -1,6 +1,6 @@
 ---
 title: Blog
-slug: /blog
+slug: /test1/blog
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
@@ -10,7 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: This is the subtitle
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/test1/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
